@@ -7,3 +7,8 @@ uses W A S D keys to control the direction,
 uses C to clear,
 uses E to exit.
 
+==========
+Comments by Prof. Yoder
+Works well.  Nice touch not having to hit ENTER.
+
+Grade:  10/10
