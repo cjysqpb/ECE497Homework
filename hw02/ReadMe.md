@@ -14,3 +14,9 @@ and button P9_23 to clear the sketch area.
 the size of screen is defined in variable MAXSIZE, range 1-100.
 
 
+==========
+Comments from Prof. Yoder
+
+It works!
+
+Grade:  10/10
