@@ -26,3 +26,8 @@ The 8x8 LED shows the gaming plot. The console will also print the plot.
 Orange Color shows where is current cursor position.
 
 
+==========
+Comments from Prof. Mark A. Yoder
+Looks good, though your code could use some more comments.
+
+Grade:  10/10
