@@ -36,3 +36,9 @@ The matrixLED.css has an entry named “on” which defines color “#00ee00” 
 I implemented another 8x8 matrix on the webpage, which controls red LEDs. Thus, two matrices need to be taken care: one for green, another for red. Similarly, two matrices will generate two groups of 64 buttons, linked to two different “LEDclick” function. Another class represent red color is also added to the css file to support the new matrix.
 
 
+==========
+Prof. Yoder's comments
+I don't see the Memory Map like figure 2-5.
+Otherwise it looks good.
+
+Grade:  9/10
