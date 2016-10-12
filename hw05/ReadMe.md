@@ -36,6 +36,8 @@ It will upload 2 temp sensor data every minute.
 
 The javascript file 'temp101stream.js' is uploaded.
 
+==========
+Prof. Yoder's comments
+Looks good and complete.
 
-
-
+Grade:  10/10
