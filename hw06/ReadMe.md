@@ -24,3 +24,8 @@ If the two light sensor captures similar intensity, the motor will temporarily s
 Press the stop button to stop the process.
 
 
+==========
+Prof. Yoder's comments
+Looks good and complete.
+
+Grade:  10/10
