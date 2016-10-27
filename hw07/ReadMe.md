@@ -38,3 +38,8 @@ Result
 ---
 Result is documented in HW07_result.PDF.
 
+==========
+Prof. Yoder's comments
+Nice plots.  Min and Max times weren't reported.  %CPU was missing on some.
+
+Grade:  9/10
